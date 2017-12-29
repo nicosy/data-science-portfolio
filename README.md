@@ -1,2 +1,4 @@
-# data-science-portfolio
-Portfolio of data science projects completed by me
+# Data Science Portfolio
+Portfolio of data science projects completed by me for self learning purposes
+
+
