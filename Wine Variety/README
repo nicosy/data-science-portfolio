@@ -1,1 +1,17 @@
 Wine classifier challenge
+
+Learning Objective: Execute data analysis workflow end-to-end
+
+Project Objective: How well can I use the available data (chemical analysis) to classify the origin of specific wines?
+
+Data: http://archive.ics.uci.edu/ml/datasets/Wine
+
+Built with R and R Studio
+
+Running Order:
+script_variety_1_only
+script_variety_2_only
+script_variety_3_only
+script_multivariate_prediction
+
+Acknowledgements: Bryn Humphreys' write up on Kaggle helped me get started (https://www.kaggle.com/brynja/testing-classifiers-for-wine-variety-prediction). Reproduced his initial goal of singling out one wine variety from the other two. I then added a multivariate test to identify all 3 varieties of wine simultaneously.
